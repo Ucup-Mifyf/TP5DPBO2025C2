@@ -1,3 +1,7 @@
+/*Saya Fajmi Yusuf Fadhilah dengan NIM 2304826 mengerjakan
+ soal Tugas Praktikum 5 dalam mata kuliah Desain Pemrograman Berbasis Objek
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
 # Aplikasi Manajemen Data Mahasiswa
 
 Aplikasi ini adalah sistem manajemen data mahasiswa berbasis Java Swing dengan koneksi ke database MySQL. Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data mahasiswa.
